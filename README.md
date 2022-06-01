@@ -2,11 +2,11 @@
 
 Графики построения приближенного решения при количестве итераций равном
 
-2:
+10:
 
 <img width="408" alt="image" src="https://user-images.githubusercontent.com/47459550/171496330-8b6ad9bf-a6a2-4647-a870-48333a3ddbc6.png">
 
-10:
+100:
 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/47459550/171496361-0de213ca-7db7-4a21-a6e8-e375a366d5d5.png">
 
